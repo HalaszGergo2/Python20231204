@@ -1,0 +1,84 @@
+Szerző*Magyar cím*Példány(millió)*Év
+Jonathan Swift*Hordómese*172*1704
+Daniel Defoe*Robinson Crusoe*138*1719
+Daniel Defoe*Moll Flanders*155*1722
+Daniel Defoe*Roxana, avagy a szerencsés kedves*114*1724
+Jonathan Swift*Gulliver utazásai*163*1726
+Jonathan Swift*Szerény javaslat*11*1729
+Henry Fielding*Joseph Andrews és barátja, Mr. Abraham Adams kalandjai*4*1742
+Tobias George Smollett*Roderick Random*174*1748
+Henry Fielding*Tom Jones*79*1749
+John Cleland*Fanny Hill*154*1749
+Henry Fielding*Amelia*102*1751
+Voltaire*Candide*90*1759
+Jean-Jacques Rousseau*Az új Heloise*26*1760
+Denis Diderot*Rameau unokaöccse*17*1761
+Jean-Jacques Rousseau*Emil, avagy a nevelésről*106*1762
+Horace Walpole*Az otrantói várkastély*186*1765
+Oliver Goldsmith*A wakefieldi lelkész*36*1766
+Laurence Sterne*Tristram Shandy*82*1767
+Laurence Sterne*Érzelmes utazás*60*1768
+Tobias George Smollett*Humphry Clinker kalandozásai*122*1771
+Johann Wolfgang von Goethe*Az ifjú Werther szenvedései*0*1774
+Jean-Jacques Rousseau*A magányos sétáló álmodozásai*68*1782
+Jean-Jacques Rousseau*Vallomások*181*1782
+Pierre Choderlos de Laclos*Veszedelmes viszonyok*135*1782
+De Sade márki*Szodoma százhúsz napja*35*1785
+William Beckford*Vathek kalifa története*198*1786
+De Sade márki*Justine avagy az erény meghurcoltatása*87*1791
+Johann Wolfgang von Goethe*Wilhelm Meister tanulóévei*119*1795
+Denis Diderot*Mindenmindegy Jakab*30*1796
+Denis Diderot*Az apáca[3]*141*1796
+Matthew Gregory Lewis*A szerzetes*26*1796
+Friedrich Hölderlin*Hüperión vagy a görögországi remete*125*1797
+Maria Edgeworth*A Rackrent kastély*43*1800
+Jane Austen*Értelem és érzelem*133*1811
+Jane Austen*Büszkeség és balítélet*34*1813
+Jane Austen*A mansfieldi kastély*149*1814
+Jane Austen*Emma*138*1816
+Jane Austen*Meggyőző érvek*73*1817
+Jane Austen*A klastrom titka*32*1817
+Sir Walter Scott*Rob Roy*76*1817
+Mary Shelley*Frankenstein*108*1818
+Sir Walter Scott*Ivanhoe*37*1820
+James Fenimore Cooper*Az utolsó mohikán*154*1826
+Alessandro Manzoni*Jegyesek*153*1827
+Stendhal*Vörös és fekete*182*1830
+Victor Hugo*A párizsi Notre-Dame*118*1831
+Honoré de Balzac*Eugénie Grandet*159*1834
+Honoré de Balzac*Goriot apó*149*1835
+Nyikolaj Vasziljevics Gogol*Az orr*103*1836
+Charles Dickens*Twist Olivér*127*1838
+Charles Dickens*Nicholas Nickleby élete és kalandjai*41*1839
+Edgar Allan Poe*Az Usher-ház vége / Az Usher-ház pusztulása*72*1839
+Stendhal*A pármai kolostor*59*1839
+Nyikolaj Vasziljevics Gogol*Holt lelkek*108*1842
+Charles Dickens*Karácsonyi ének*165*1843
+Edgar Allan Poe*A kút és az inga*74*1843
+Honoré de Balzac*Elveszett illúziók*18*1843
+Alexandre Dumas*A három testőr*123*1844
+Charles Dickens*Martin Chuzzlewit élete és kalandjai*15*1844
+Edgar Allan Poe*Az ellopott levél*86*1844
+Alexandre Dumas*Margot királyné*140*1845
+Alexandre Dumas*Monte Cristo grófja*107*1846
+Anne Brontë*Agnes Grey*57*1847
+Charlotte Brontë*Jane Eyre*89*1847
+Emily Brontë*Üvöltő szelek*67*1847
+William Makepeace Thackeray*Hiúság vására*12*1847
+Anne Brontë*Wildfell asszonya*174*1848
+Elizabeth Gaskell*Szerelem és gyötrelem*50*1848
+Charlotte Brontë*Shirley*165*1849
+Charles Dickens*David Copperfield*30*1850
+Nathaniel Hawthorne*A skarlát betű*91*1850
+Herman Melville*Moby Dick, vagy a fehér bálna*44*1851
+Nathaniel Hawthorne*A hétormú ház*200*1851
+Harriet Beecher Stowe*Tamás bátya kunyhója*36*1852
+Nathaniel Hawthorne*Derűvölgy románca*45*1852
+Charles Dickens*Örökösök*60*1853
+Charlotte Brontë*Villette*14*1853
+Elizabeth Gaskell*A kisváros*30*1853
+Charles Dickens*Nehéz idők*116*1854
+Henry David Thoreau*Walden*96*1854
+Elizabeth Gaskell*Észak és dél*100*1855
+Gustave Flaubert*Bovaryné*33*1857
+Charles Dickens*Két város regénye*18*1859
